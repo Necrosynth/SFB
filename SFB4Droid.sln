@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4A248C5E-CB28-39D3-FA91-87BF521D469B}") = "SFB4Droid", "Assembly-CSharp-firstpass.csproj", "{3C546717-C938-7D28-9431-97ED57D96364}"
+EndProject
+Project("{4A248C5E-CB28-39D3-FA91-87BF521D469B}") = "SFB4Droid", "Assembly-CSharp.csproj", "{570D1450-05E7-225C-F488-65F719580B88}"
+EndProject
+Project("{4A248C5E-CB28-39D3-FA91-87BF521D469B}") = "SFB4Droid", "Assembly-CSharp-Editor.csproj", "{91FC76FA-5F35-A2CB-C102-14E44FABEE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C546717-C938-7D28-9431-97ED57D96364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C546717-C938-7D28-9431-97ED57D96364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C546717-C938-7D28-9431-97ED57D96364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C546717-C938-7D28-9431-97ED57D96364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570D1450-05E7-225C-F488-65F719580B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570D1450-05E7-225C-F488-65F719580B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570D1450-05E7-225C-F488-65F719580B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570D1450-05E7-225C-F488-65F719580B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FC76FA-5F35-A2CB-C102-14E44FABEE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FC76FA-5F35-A2CB-C102-14E44FABEE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FC76FA-5F35-A2CB-C102-14E44FABEE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FC76FA-5F35-A2CB-C102-14E44FABEE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

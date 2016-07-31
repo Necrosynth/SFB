@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{70B0F26E-1B02-36BC-04EA-626715F1D5CD}") = "SFBAndroid", "Assembly-CSharp-firstpass.csproj", "{66DC88FD-A6E6-E85A-6181-9B836999DF96}"
+EndProject
+Project("{70B0F26E-1B02-36BC-04EA-626715F1D5CD}") = "SFBAndroid", "Assembly-CSharp.csproj", "{8AE38C35-D8FA-978B-6D97-068DC2FD5366}"
+EndProject
+Project("{70B0F26E-1B02-36BC-04EA-626715F1D5CD}") = "SFBAndroid", "Assembly-CSharp-Editor.csproj", "{78FE2DE0-4289-543A-8585-8BC647F556A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DC88FD-A6E6-E85A-6181-9B836999DF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DC88FD-A6E6-E85A-6181-9B836999DF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DC88FD-A6E6-E85A-6181-9B836999DF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DC88FD-A6E6-E85A-6181-9B836999DF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE38C35-D8FA-978B-6D97-068DC2FD5366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE38C35-D8FA-978B-6D97-068DC2FD5366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE38C35-D8FA-978B-6D97-068DC2FD5366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE38C35-D8FA-978B-6D97-068DC2FD5366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FE2DE0-4289-543A-8585-8BC647F556A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FE2DE0-4289-543A-8585-8BC647F556A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FE2DE0-4289-543A-8585-8BC647F556A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FE2DE0-4289-543A-8585-8BC647F556A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
